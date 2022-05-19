@@ -18,9 +18,9 @@ int tabuadas(valor1, valor2)
 
     // Construção da primeira tabuada e a soma de seus resultados.
     printf("\n == Tabuada do %d ==\n\n", valor1);
-    for (int number = 1; number <= 10; number++)
+    for (int numeros = 1; numeros <= 10; numeros++)
     {
-        printf("  %d x %d = %d\n", valor1, number, res1[number] = number * valor1);
+        printf("  %d x %d = %d\n", valor1, numeros, res1[numeros] = numeros * valor1);
     }        
 
     int somaTab1 = res1[1]+res1[2]+res1[3]+res1[4]+res1[5]+res1[6]+res1[7]+res1[8]+res1[9]+res1[10];
@@ -28,9 +28,9 @@ int tabuadas(valor1, valor2)
 
     // Construção da segunda tabuada e a soma de seus resultados.
     printf("\n == Tabuada do %d ==\n\n", valor2);
-    for (int number = 1; number <= 10; number++)
+    for (int numeros = 1; numeros <= 10; numeros++)
     {   
-        printf("  %d x %d = %d\n", valor2, number, res2[number] = number * valor2);
+        printf("  %d x %d = %d\n", valor2, numeros, res2[numeros] = numeros * valor2);
     }
     
     int somaTab2 = res2[1]+res2[2]+res2[3]+res2[4]+res2[5]+res2[6]+res2[7]+res2[8]+res2[9]+res2[10];
@@ -38,7 +38,7 @@ int tabuadas(valor1, valor2)
 
     // Construção da soma dos resultados das duas tabuadas e aplicando a média ponderada e a retornando.
     int somaTab1e2 = somaTab1 + somaTab2;
-    float mediaPond = ((somaTab1 * 1) + (somaTab2 * 3) + (somaTab1e2 * 5)) / (1 + 3 + 5);
+    float mediaPond = ((valor1 * 1) + (valor2 * 3) + (somaTab1e2 * 5)) / (1 + 3 + 5);
     return mediaPond; 
 }
 
