@@ -76,5 +76,5 @@ void main()
 
     int somaTab1e2 = tabuadas(valor1, valor2);
     int mediaPond = ((valor1 * 1) + (valor2 * 3) + (somaTab1e2 * 5)) / (1 + 3 + 5);
-    printf("\n\n Media ponderada de %d, %d e %d: %d\n\n", valor1, valor2, somaTab1e2, mediaPond);
+    printf("\n\n Media ponderada dos valores %d, %d e %d: %d\n\n", valor1, valor2, somaTab1e2, mediaPond);
 } 
