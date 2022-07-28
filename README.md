@@ -1,4 +1,4 @@
-# A1-PSC
+# A1-PSC | Prova de Programação da Faculdade :school:
 Tarefa avaliativa 📍
 
 - Escreva um algoritmo em C/C++/ Java no qual devem ser lidas 2 variáveis do tipo int.
@@ -9,5 +9,8 @@ Tarefa avaliativa 📍
  
 - Crie uma função do tipo inteiro com dois valores inteiro como parâmetro, atribuindo os valores que foram digitados. Mostre a tabuada dos dois valores (obrigatório usar uma estrutura de repetição para multiplicar os números de 1 até 10). A função deverá retornar a soma dos resultados de todas as operações das duas tabuadas. Esta função também deve apresentar a média ponderada (pesos 1, 3 e 5) para os seguintes 3 valores: os dois valores usados como entrada desta função e a soma dos resultados de todas as operações.
 
-
 Dica: crie um procedimento de cada vez e comece a estruturá-los depois de fazer a leitura das 2 variáveis inteiro. Chame os dois procedimentos e a função dentro do main.
+- Tecnologia utilizada: __Linguagem C__.
+***
+### Situação do projeto: Finalizado :heavy_check_mark: | Valor: 30 pontos | Nota: 30 pontos :brain:
+***
