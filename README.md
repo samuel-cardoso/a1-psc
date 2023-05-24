@@ -12,5 +12,5 @@ Tarefa avaliativa
 Dica: crie um procedimento de cada vez e comece a estruturá-los depois de fazer a leitura das 2 variáveis inteiro. Chame os dois procedimentos e a função dentro do main.
 - Tecnologia utilizada: __Linguagem C__.
 ***
-### Situação do projeto: Finalizado :heavy_check_mark: | Valor: 30 pontos | Nota: 30 pontos
+### Situação do projeto: Finalizado | Valor: 30 pontos | Nota: 30 pontos
 ***
