@@ -1,4 +1,4 @@
-# A1-PSC | Prova de Programação da Faculdade :school:
+# A1-PSC | Prova de Programação da Faculdade
 Tarefa avaliativa 
 
 - Escreva um algoritmo em C/C++/ Java no qual devem ser lidas 2 variáveis do tipo int.
@@ -12,5 +12,5 @@ Tarefa avaliativa
 Dica: crie um procedimento de cada vez e comece a estruturá-los depois de fazer a leitura das 2 variáveis inteiro. Chame os dois procedimentos e a função dentro do main.
 - Tecnologia utilizada: __Linguagem C__.
 ***
-### Situação do projeto: Finalizado :heavy_check_mark: | Valor: 30 pontos | Nota: 30 pontos :brain:
+### Situação do projeto: Finalizado :heavy_check_mark: | Valor: 30 pontos | Nota: 30 pontos
 ***
