@@ -1,5 +1,5 @@
 # A1-PSC | Prova de Programação da Faculdade :school:
-Tarefa avaliativa 📍
+Tarefa avaliativa 
 
 - Escreva um algoritmo em C/C++/ Java no qual devem ser lidas 2 variáveis do tipo int.
 
