@@ -1,6 +1,14 @@
 <h1 align="center">A1-PSC | Prova de Programação da Faculdade</h1>
 
-- [Enunciado](#enunciado)
+
+- [Enunciado](#enunciado) - [Tecnologias](#tecnologias)
+
+<p align="center">
+  <a href="#enunciado">Enunciado</a> - <a href="#tecnologias">Tecnologias</a>
+</p>
+ 
+
+
 
 **<p align="center">Tarefa avaliativa que consiste em escrever um algoritmo em C ou C++ ou Java, no qual devem ser lidas 2 variáveis do tipo int.</p>**
 
