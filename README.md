@@ -1,7 +1,10 @@
-# A1-PSC | Prova de Programação da Faculdade
-Tarefa avaliativa 
+<h1 align="center">A1-PSC | Prova de Programação da Faculdade</h1>
 
-- Escreva um algoritmo em C/C++/ Java no qual devem ser lidas 2 variáveis do tipo int.
+- [Enunciado](https://github.com/samuel-cardoso/a1-psc/##Enunciadodaavaliação:)
+
+**<p align="center">Tarefa avaliativa que consiste em escrever um algoritmo em C ou C++ ou Java, no qual devem ser lidas 2 variáveis do tipo int.</p>**
+
+## Enunciado da avaliação: 
 
 - Crie um procedimento com 2 parâmetros do tipo inteiro que recebam os valores que foram digitados. Informe quantos valores são positivos maiores que zero) e quantos valores são negativos (menores que zero). (sem retorno, com a saída no console - printf/cout/System.out.println - realizada pelo procedimento)
  
