@@ -1,18 +1,15 @@
 <h1 align="center">A1-PSC | Prova de Programação da Faculdade</h1>
 
-
-- [Enunciado](#enunciado) - [Tecnologias](#tecnologias)
-
 <p align="center">
-  <a href="#enunciado">Enunciado</a> - <a href="#tecnologias">Tecnologias</a>
+  &bull; <a href="#enunciado">Enunciado</a>
+  &bull; <a href="#tecnologias">Tecnologias</a>
+  &bull; <a href="#contribuir">Contribuir</a>
+  &bull; <a href="#licença">Licença</a>
 </p>
- 
-
-
 
 **<p align="center">Tarefa avaliativa que consiste em escrever um algoritmo em C ou C++ ou Java, no qual devem ser lidas 2 variáveis do tipo int.</p>**
 
-## Enunciado 
+## Enunciado
 
 - Crie um procedimento com 2 parâmetros do tipo inteiro que recebam os valores que foram digitados. Informe quantos valores são positivos maiores que zero) e quantos valores são negativos (menores que zero). (sem retorno, com a saída no console - printf/cout/System.out.println - realizada pelo procedimento)
  
@@ -23,8 +20,22 @@
 **Dica:** crie um procedimento de cada vez e comece a estruturá-los depois de fazer a leitura das 2 variáveis inteiro. Chame os dois procedimentos e a função dentro do main.
 
 ## Tecnologias:
-- __Linguagem C__.
+A linguagem escolhida para criar o programa proposto é a linguagem C.
 
-***
-### Situação do projeto: Finalizado | Valor: 30 pontos | Nota: 30 pontos
-***
+## Contribuir🚀
+Contribua para melhorarmos este projeto juntos, clone esse repo e crie seu branch de trabalho.
+```
+git clone https://github.com/samuel-cardoso/a1-psc.git
+```
+No final, abra um Pull Request explicando o problema resolvido ou recurso feito, caso exista, anexe screenshot das modificações visuais e aguarde a revisão!
+
+<a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">
+  Como fazer um   Pull Request
+</a>
+
+<a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716">
+  Padrão de Confirmação
+</a>
+
+## Licença 📃
+Este projeto está sob licença do [MIT](https://github.com/samuel-cardoso/a1-psc/blob/main/LICENSE).
