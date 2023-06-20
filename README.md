@@ -23,14 +23,14 @@
 A linguagem escolhida para criar o programa proposto é a linguagem C.
 
 ## Contribuir🚀
-Contribua para melhorarmos este projeto juntos, clone esse repo e crie seu branch de trabalho.
+Contribua para melhorarmos este projeto juntos, clone esse repositório e crie seu branch de trabalho.
 ```
 git clone https://github.com/samuel-cardoso/a1-psc.git
 ```
 No final, abra um Pull Request explicando o problema resolvido ou recurso feito, caso exista, anexe screenshot das modificações visuais e aguarde a revisão!
 
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">
-  Como fazer um   Pull Request
+  Como fazer um Pull Request
 </a>
 
 <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716">
