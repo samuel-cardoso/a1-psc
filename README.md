@@ -27,7 +27,7 @@ Contribua para melhorarmos este projeto juntos, clone esse repositório e crie s
 ```
 git clone https://github.com/samuel-cardoso/a1-psc.git
 ```
-No final, abra um Pull Request explicando o problema resolvido ou recurso feito, caso exista, anexe screenshot das modificações visuais e aguarde a revisão!
+Ao concluir, crie um Pull Request descrevendo a solução implementada ou recurso adicionado, se houver, e inclua capturas de tela das alterações visuais realizadas.
 
 <p>
   <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">
