@@ -23,7 +23,7 @@
 A linguagem escolhida para criar o programa proposto é a linguagem C.
 
 ## Contribuir🚀
-Contribua para melhorarmos este projeto juntos, clone esse repositório e crie seu branch de trabalho.
+Contribua para melhorarmos este projeto juntos, clone esse repositório e crie sua branch de trabalho.
 ```
 git clone https://github.com/samuel-cardoso/a1-psc.git
 ```
